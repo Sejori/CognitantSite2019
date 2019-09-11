@@ -1,3 +1,4 @@
+
 html, body { font-family: 'Montserrat', sans-serif; text-align: center; color: #444; font-size: 18px; scroll-behavior: smooth; }
 p { text-align: left; }
 h1, h2, h3 { color: #686321; font-weight: 500; }
@@ -257,3 +258,6 @@ ul.infographics { padding: 0px; padding-top: 20px; list-style-type: none; color:
 
 #privacy li { text-align: left; }
 #privacy h3 { padding: 20px; }
+
+#googleBtn img {width:270px; margin: 10px;}
+#appleBtn img {width:270px; margin: 10px;}
